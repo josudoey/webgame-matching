@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkwebgame_matching=self.webpackChunkwebgame_matching||[]).push([[1],[,(e,a,c)=>{c.r(a)}]]);
